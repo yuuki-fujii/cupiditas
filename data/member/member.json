@@ -5,11 +5,11 @@
   "avatar":"./img/avator-male.png",
   "style":{"desktop":"Mac","mobile":"iPhone"},
   "point-skill"
-  :[{"skill-name":"Programing","skill-point":"100"},
-    {"skill-name":"Database","skill-point":"100"},
-    {"skill-name":"OS","skill-point":"100"},
-    {"skill-name":"Hardware","skill-point":"100"},
-    {"skill-name":"Security","skill-point":"100"}],
+  :[{"skill-name":"Programing","skill-point":"40"},
+    {"skill-name":"Database","skill-point":"30"},
+    {"skill-name":"OS","skill-point":"10"},
+    {"skill-name":"Hardware","skill-point":"10"},
+    {"skill-name":"Security","skill-point":"20"}],
   "inherent-ability"
   :{"name":"Ability Name","description":"Ability Description"},
   "abilities"
