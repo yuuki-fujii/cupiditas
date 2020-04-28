@@ -1,1 +1,28 @@
-{"name":"藤井勇気","belong-to":"株式会社ラクスパートナーズ","title":"プログラマー","avatar":"./img/avator-male.png","style":{"desktop":"Mac","mobile":"iPhone"},"point-skill":[{"skill-name":"Programing","skill-point":"100"},{"skill-name":"Database","skill-point":"100"},{"skill-name":"OS","skill-point":"100"},{"skill-name":"Hardware","skill-point":"100"},{"skill-name":"Security","skill-point":"100"}],"inherent-ability":{"name":"Ability Name","description":"Ability Description"},"abilities":{"numerical-ability":[{"id":1,"value":"2"},{"id":2,"value":"1"},{"id":3,"value":"1"},{"id":4,"value":"3"},{"id":5,"value":"3"},{"id":6,"value":"2"},{"id":7,"value":"4"},{"id":8,"value":"3"},{"id":9,"value":"3"},{"id":10,"value":"3"}],"special-ability":["7","8","10","25","27","38","52","64","67","73"]}}
+{
+  "name":"藤井勇気",
+  "belong-to":"株式会社ラクスパートナーズ",
+  "title":"プログラマー",
+  "avatar":"./img/avator-male.png",
+  "style":{"desktop":"Mac","mobile":"iPhone"},
+  "point-skill"
+  :[{"skill-name":"Programing","skill-point":"100"},
+    {"skill-name":"Database","skill-point":"100"},
+    {"skill-name":"OS","skill-point":"100"},
+    {"skill-name":"Hardware","skill-point":"100"},
+    {"skill-name":"Security","skill-point":"100"}],
+  "inherent-ability"
+  :{"name":"Ability Name","description":"Ability Description"},
+  "abilities"
+  :{"numerical-ability"
+    :[{"id":1,"value":"2"},
+      {"id":2,"value":"1"},
+      {"id":3,"value":"1"},
+      {"id":4,"value":"3"},
+      {"id":5,"value":"3"},
+      {"id":6,"value":"2"},
+      {"id":7,"value":"4"},
+      {"id":8,"value":"3"},
+      {"id":9,"value":"3"},
+      {"id":10,"value":"3"}],
+    "special-ability":["7","8","10","25","27","38","52","64","67","73"]}
+}
